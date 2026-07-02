@@ -1,6 +1,6 @@
 # 🌿 Olive
 
-The official Discord assistant for our Kingshot alliance.
+The official Discord assistant for a Kingshot alliance discord server.
 
 ## Features
 - Member verification
